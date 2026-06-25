@@ -1,9 +1,4 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "env": {
-    "BREVO_API_KEY": "@brevo_api_key",
-    "CONTACT_TO_EMAIL": "@contact_to_email",
-    "CONTACT_FROM_EMAIL": "@contact_from_email"
-  }
+  "outputDirectory": "dist"
 }
