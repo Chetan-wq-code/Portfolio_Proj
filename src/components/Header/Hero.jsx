@@ -6,6 +6,11 @@ const Hero = () => {
       
       <div className="absolute top-1/4 left-1/4 w-64 h-64 bg-blue-600/20 blur-[100px] rounded-full"></div>
       
+      <img
+        src="/profile.jpeg"
+        alt="Chetan profile"
+        className="w-40 h-40 rounded-full object-cover border-4 border-blue-500 mb-8 shadow-2xl shadow-blue-900/30"
+      />
       <h1 className="text-5xl md:text-7xl font-black mb-6 bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
         Chetan
       </h1>
